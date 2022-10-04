@@ -1,0 +1,9 @@
+{
+	"name": "pa-covid-reporting-adf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "73bfbfb0-e594-43d9-9061-a59ebd713d5d",
+		"tenantId": "f65941ea-a6db-4077-a704-0622c9ff8fa2"
+	}
+}
